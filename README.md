@@ -1,16 +1,27 @@
-# sales-dashboard-powerbi
+# 📊 Adventure Works Sales Analysis Dashboard
 
-## Description
-An interactive dashboard built in Power BI to analyze regional sales performance, product trends, and revenue over time.
+## 📝 Description
+This Power BI dashboard provides a comprehensive analysis of the Adventure Works dataset. It focuses on sales performance, customer demographics, product categories, and regional trends to support data-driven decision making.
 
-## Tools Used
+## 🛠 Tools Used
 - Power BI
-- Excel
 - DAX
+- Adventure Works Dataset
+- 
+## 📁 Files Included
+- ADVENTURE WORKS(Final Presentation).pbix — Power BI report file
 
 ## Preview
 ![Dashboard Screenshot]("C:\Users\LENOVO\Pictures\Screenshots\sales-dashboard-preview.png")
 
 ## Key Insights
-- North region had the highest sales in Q3
-- Category A had a 25% increase in sales from last quarter
+- Top-selling product categories and their revenue contribution
+- Sales performance by region and sales channel
+- Customer segmentation by age group and location
+- Trends in sales volume over time
+
+## ▶ How to View the Report
+To explore this dashboard:
+1. Download the .pbix file from this repository.
+2. Open it using *Power BI Desktop* (free to download from the [Microsoft Store](https://apps.microsoft.com/store/detail/power-bi-desktop/9NTXR16HNW1T)).
+
