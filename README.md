@@ -9,7 +9,7 @@ An interactive dashboard built in Power BI to analyze regional sales performance
 - DAX
 
 ## Preview
-"C:\Users\LENOVO\Pictures\Screenshots\sales-dashboard-preview.png"
+![Dashboard Screenshot]("C:\Users\LENOVO\Pictures\Screenshots\sales-dashboard-preview.png")
 
 ## Key Insights
 - North region had the highest sales in Q3
